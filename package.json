@@ -1,0 +1,16 @@
+{
+  "name": "learn_javascript",
+  "version": "1.0.0",
+  "description": "## 1. 基本语法",
+  "main": "class.js",
+  "dependencies": {
+    "uuid": "~2.0.2",
+    "learn_javascript": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
